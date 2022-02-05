@@ -7,7 +7,7 @@ lower = string.ascii_lowercase
 digits = string.digits
 symbols = string.punctuation
 
-#add together all the the uppercase, lowercase, numbers(digits), and the symbols(*/-&^%$) together to the 'res' var
+#add together all uppercase, lowercase, numbers(digits), and the symbols(*/-&^%$) together to the 'res' var
 res = upper + lower + digits + symbols
 char = int(input("Enter the number of characters for your password: ")) #getting the charcther lenght from the user
 while True:
