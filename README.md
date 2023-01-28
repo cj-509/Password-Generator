@@ -8,3 +8,9 @@ security tokens, and related secrets" -- python documents
 ## GUI
 
 Using tkinter to make it as a GUI
+
+## Local Dev
+
+added app.py.
+
+added dir -- App
